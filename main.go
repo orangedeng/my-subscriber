@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/rancher/my-subcriber/handlers"
+	"github.com/orangedeng/my-subscriber/handlers"
 
 	log "github.com/Sirupsen/logrus"
 	"github.com/rancher/event-subscriber/events"
